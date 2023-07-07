@@ -17,6 +17,10 @@ public class LoginMenu extends Application {
         Scene scene = new Scene(borderPane);
         stage.setScene(scene);
         stage.setTitle("SnapFood");
+        stage.show();
+    }
 
+    public static void main(String[] args) {
+        launch(args);
     }
 }

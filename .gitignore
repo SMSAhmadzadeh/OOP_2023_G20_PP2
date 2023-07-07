@@ -20,7 +20,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
-pom.xml
+
 
 
 ### NetBeans ###
@@ -38,3 +38,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+pom.xml
+.gitignore

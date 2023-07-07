@@ -11,13 +11,13 @@ public class Main extends Application {
         //import history
     }
     public static void main(String[] args) {
-        launch(args);
+        MainMenu.main(args);
     }
 
     @Override
     public void start(Stage stage) throws Exception {
         Main.stage=stage;
-        //check where to go
+
 
     }
 }
